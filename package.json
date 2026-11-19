@@ -1,0 +1,13 @@
+{
+  "name": "tv-cloud-bridge",
+  "version": "1.2.0",
+  "description": "Cloud Browser, Resource Proxy, Smart Cache, Reader, Audio Extractor & Mobile Remote for Legacy Android 4.4 Smart TVs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "1.48.0"
+  }
+}
